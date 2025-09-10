@@ -4,7 +4,25 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (6 offers)
+## Available positions (9 offers)
+
+### Revolut
+- **Position:** Rev-celerator Internship Programme 2026: Information Security Engineer (Appsec)
+- **Location:** Portugal
+- **Posted on:** 2025-09-09
+- [Apply here](https://pt.linkedin.com/jobs/view/rev-celerator-internship-programme-2026-information-security-engineer-appsec-at-revolut-4297931277?position=4&pageNum=0&refId=0p4y6w6V%2BvF42f6j%2FP2FOg%3D%3D&trackingId=vFuuSE1qPCauTCWKr3FJyw%3D%3D)
+
+### Revolut
+- **Position:** Rev-celerator Internship Programme 2026: Information Security Engineer (Appsec)
+- **Location:** Spain
+- **Posted on:** 2025-09-09
+- [Apply here](https://es.linkedin.com/jobs/view/rev-celerator-internship-programme-2026-information-security-engineer-appsec-at-revolut-4297933240?position=23&pageNum=0&refId=Yr987n99FFFmvB6opNshEw%3D%3D&trackingId=RPNPxxHUKZ8UIJVsjuIZvw%3D%3D)
+
+### Revolut
+- **Position:** Rev-celerator Internship Programme 2026: Information Security Engineer (Appsec)
+- **Location:** Romania
+- **Posted on:** 2025-09-09
+- [Apply here](https://ro.linkedin.com/jobs/view/rev-celerator-internship-programme-2026-information-security-engineer-appsec-at-revolut-4297926466?position=2&pageNum=0&refId=T2tq5zsyUaf678X1FOEcOg%3D%3D&trackingId=SLdlG9X%2F8m2V6SZkdSKovg%3D%3D)
 
 ### Oda
 - **Position:** Summer Internship 2026 - Data Science
