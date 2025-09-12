@@ -4,7 +4,49 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (9 offers)
+## Available positions (16 offers)
+
+### Revolut
+- **Position:** Rev-celerator Internship Programme 2026: Python Software Engineer
+- **Location:** Spain
+- **Posted on:** 2025-09-11
+- [Apply here](https://es.linkedin.com/jobs/view/rev-celerator-internship-programme-2026-python-software-engineer-at-revolut-4298898546?position=15&pageNum=0&refId=sJOj1SSwKl0JFjv4vU0Y7g%3D%3D&trackingId=tOH0B7cDEf40E%2B7VJVt7eA%3D%3D)
+
+### Revolut
+- **Position:** Rev-celerator Internship Programme 2026: Data Scientist and Analyst
+- **Location:** Spain
+- **Posted on:** 2025-09-11
+- [Apply here](https://es.linkedin.com/jobs/view/rev-celerator-internship-programme-2026-data-scientist-and-analyst-at-revolut-4298898545?position=19&pageNum=0&refId=sJOj1SSwKl0JFjv4vU0Y7g%3D%3D&trackingId=x7hpCvtW0n5OE9LBDnWDWw%3D%3D)
+
+### Revolut
+- **Position:** Rev-celerator Internship Programme 2026: Android Software Engineer
+- **Location:** Spain
+- **Posted on:** 2025-09-11
+- [Apply here](https://es.linkedin.com/jobs/view/rev-celerator-internship-programme-2026-android-software-engineer-at-revolut-4298899535?position=29&pageNum=0&refId=sJOj1SSwKl0JFjv4vU0Y7g%3D%3D&trackingId=i0pgpdsT5jYbYBGZLuDZMg%3D%3D)
+
+### Revolut
+- **Position:** Rev-celerator Internship Programme 2026: Java Software Engineer
+- **Location:** Spain
+- **Posted on:** 2025-09-11
+- [Apply here](https://es.linkedin.com/jobs/view/rev-celerator-internship-programme-2026-java-software-engineer-at-revolut-4299010394?position=34&pageNum=0&refId=sJOj1SSwKl0JFjv4vU0Y7g%3D%3D&trackingId=VZaiROimd4qb7iGyWHuwxg%3D%3D)
+
+### Revolut
+- **Position:** Rev-celerator Internship Programme 2026: Software Engineer (Frontend)
+- **Location:** Spain
+- **Posted on:** 2025-09-11
+- [Apply here](https://es.linkedin.com/jobs/view/rev-celerator-internship-programme-2026-software-engineer-frontend-at-revolut-4299006497?position=36&pageNum=0&refId=sJOj1SSwKl0JFjv4vU0Y7g%3D%3D&trackingId=yyWvJqSQnIdB0O%2BnYgcTjw%3D%3D)
+
+### Revolut
+- **Position:** Rev-celerator Internship Programme 2026: iOS Software Engineer
+- **Location:** Spain
+- **Posted on:** 2025-09-11
+- [Apply here](https://es.linkedin.com/jobs/view/rev-celerator-internship-programme-2026-ios-software-engineer-at-revolut-4299008393?position=37&pageNum=0&refId=sJOj1SSwKl0JFjv4vU0Y7g%3D%3D&trackingId=g0T42akE6afFyWx5L83c1A%3D%3D)
+
+### Autodesk
+- **Position:** Intern, Software Engineer
+- **Location:** Oslo, Oslo, Norway
+- **Posted on:** 2025-09-11
+- [Apply here](https://no.linkedin.com/jobs/view/intern-software-engineer-at-autodesk-4298874908?position=13&pageNum=0&refId=kq1pQrIUDxNsyOthz2k18w%3D%3D&trackingId=pYxc5W%2F9SQ6YrFw%2FV9wN3Q%3D%3D)
 
 ### Revolut
 - **Position:** Rev-celerator Internship Programme 2026: Information Security Engineer (Appsec)
