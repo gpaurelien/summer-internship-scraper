@@ -4,7 +4,49 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (16 offers)
+## Available positions (23 offers)
+
+### Equinor
+- **Position:** Summer Internship 2026 Norway - Technology & Engineering
+- **Location:** Oslo, Oslo, Norway
+- **Posted on:** 2025-09-16
+- [Apply here](https://no.linkedin.com/jobs/view/summer-internship-2026-norway-technology-engineering-at-equinor-4300983849?position=40&pageNum=0&refId=hRtXICcP8a6VkbOuP6jxKQ%3D%3D&trackingId=AQsu%2BneCXSpVRnirCpoLpg%3D%3D)
+
+### Equinor
+- **Position:** Summer Internship 2026 Norway - Technology & Engineering
+- **Location:** Bergen, Vestland, Norway
+- **Posted on:** 2025-09-16
+- [Apply here](https://no.linkedin.com/jobs/view/summer-internship-2026-norway-technology-engineering-at-equinor-4300993383?position=51&pageNum=0&refId=hRtXICcP8a6VkbOuP6jxKQ%3D%3D&trackingId=CWcUJhKi40Ww%2Fo%2B4tsgZLA%3D%3D)
+
+### Equinor
+- **Position:** Summer Internship 2026 Norway - Technology & Engineering
+- **Location:** Porsgrunn/Skien, Vestfold og Telemark, Norway
+- **Posted on:** 2025-09-16
+- [Apply here](https://no.linkedin.com/jobs/view/summer-internship-2026-norway-technology-engineering-at-equinor-4300989468?position=55&pageNum=0&refId=hRtXICcP8a6VkbOuP6jxKQ%3D%3D&trackingId=brPbdTBuiUXUHLZGowZQeQ%3D%3D)
+
+### Equinor
+- **Position:** Summer Internship 2026 Norway - Technology & Engineering
+- **Location:** Alver, Vestland, Norway
+- **Posted on:** 2025-09-16
+- [Apply here](https://no.linkedin.com/jobs/view/summer-internship-2026-norway-technology-engineering-at-equinor-4301202037?position=56&pageNum=0&refId=hRtXICcP8a6VkbOuP6jxKQ%3D%3D&trackingId=JHKXV8QWhYMIWzP8mr%2BdUw%3D%3D)
+
+### Equinor
+- **Position:** Summer Internship 2026 Norway - Technology & Engineering
+- **Location:** Stavanger, Rogaland, Norway
+- **Posted on:** 2025-09-16
+- [Apply here](https://no.linkedin.com/jobs/view/summer-internship-2026-norway-technology-engineering-at-equinor-4300980967?position=58&pageNum=0&refId=hRtXICcP8a6VkbOuP6jxKQ%3D%3D&trackingId=HjCvbTrsCKlXcfh5v%2Bv%2Fig%3D%3D)
+
+### Equinor
+- **Position:** Summer Internship 2026 Norway - Technology & Engineering
+- **Location:** Trondheim, Trøndelag, Norway
+- **Posted on:** 2025-09-16
+- [Apply here](https://no.linkedin.com/jobs/view/summer-internship-2026-norway-technology-engineering-at-equinor-4300984845?position=59&pageNum=0&refId=hRtXICcP8a6VkbOuP6jxKQ%3D%3D&trackingId=VOvQmBmkaTwM26K4b2%2BQ7g%3D%3D)
+
+### Equinor
+- **Position:** Summer Internship 2026 Norway - Technology & Engineering
+- **Location:** Stjørdal, Trøndelag, Norway
+- **Posted on:** 2025-09-16
+- [Apply here](https://no.linkedin.com/jobs/view/summer-internship-2026-norway-technology-engineering-at-equinor-4300983848?position=60&pageNum=0&refId=hRtXICcP8a6VkbOuP6jxKQ%3D%3D&trackingId=oz1JX%2B3IHCFWin0qYmOAKg%3D%3D)
 
 ### Revolut
 - **Position:** Rev-celerator Internship Programme 2026: Python Software Engineer
