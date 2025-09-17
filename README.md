@@ -4,7 +4,7 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (23 offers)
+## Available positions (25 offers)
 
 ### Equinor
 - **Position:** Summer Internship 2026 Norway - Technology & Engineering
@@ -47,6 +47,18 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Stjørdal, Trøndelag, Norway
 - **Posted on:** 2025-09-16
 - [Apply here](https://no.linkedin.com/jobs/view/summer-internship-2026-norway-technology-engineering-at-equinor-4300983848?position=60&pageNum=0&refId=hRtXICcP8a6VkbOuP6jxKQ%3D%3D&trackingId=oz1JX%2B3IHCFWin0qYmOAKg%3D%3D)
+
+### BNY
+- **Position:** 2026 Summer Internship Program - Engineering (Wroclaw, Poland)
+- **Location:** Wrocław, Dolnośląskie, Poland
+- **Posted on:** 2025-09-16
+- [Apply here](https://pl.linkedin.com/jobs/view/2026-summer-internship-program-engineering-wroclaw-poland-at-bny-4301536903?position=2&pageNum=0&refId=iwq8zQ9gE84Cw6zSBI4NDQ%3D%3D&trackingId=AboCQ6s7reHi7DfIrmJahQ%3D%3D)
+
+### Equinor
+- **Position:** Summer Internship 2026 Norway - Technology & Engineering
+- **Location:** Harstad, Troms og Finnmark, Norway
+- **Posted on:** 2025-09-16
+- [Apply here](https://no.linkedin.com/jobs/view/summer-internship-2026-norway-technology-engineering-at-equinor-4300984846?position=60&pageNum=0&refId=q5o5XwOLZgXQE16xxtt%2BwA%3D%3D&trackingId=SUlKsd5rFMiHa17Wl19Lig%3D%3D)
 
 ### Revolut
 - **Position:** Rev-celerator Internship Programme 2026: Python Software Engineer
