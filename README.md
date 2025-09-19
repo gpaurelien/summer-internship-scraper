@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (25 offers)
+## Available positions (28 offers)
+
+### Microsoft
+- **Position:** Software Engineering Internship Opportunities
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2025-09-18
+- [Apply here](https://ro.linkedin.com/jobs/view/software-engineering-internship-opportunities-at-microsoft-4302562835?position=1&pageNum=0&refId=a2%2FWqY1oh%2FjMYiuKJTm9%2Fw%3D%3D&trackingId=QCZjTGzMmtftGZcxlnE7oQ%3D%3D)
 
 ### Equinor
 - **Position:** Summer Internship 2026 Norway - Technology & Engineering
@@ -59,6 +65,18 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Harstad, Troms og Finnmark, Norway
 - **Posted on:** 2025-09-16
 - [Apply here](https://no.linkedin.com/jobs/view/summer-internship-2026-norway-technology-engineering-at-equinor-4300984846?position=60&pageNum=0&refId=q5o5XwOLZgXQE16xxtt%2BwA%3D%3D&trackingId=SUlKsd5rFMiHa17Wl19Lig%3D%3D)
+
+### Equinor
+- **Position:** Summer Internship 2026 Norway - Technology & Engineering
+- **Location:** Hammerfest, Troms og Finnmark, Norway
+- **Posted on:** 2025-09-16
+- [Apply here](https://no.linkedin.com/jobs/view/summer-internship-2026-norway-technology-engineering-at-equinor-4300980966?position=58&pageNum=0&refId=5A%2FMYDV8jkhcOqaXhx16%2BQ%3D%3D&trackingId=H%2BTm9kogMCHnj59fzQ3ZDg%3D%3D)
+
+### Equinor
+- **Position:** Summer Internship 2026 Norway - Technology & Engineering
+- **Location:** Aure, Møre og Romsdal, Norway
+- **Posted on:** 2025-09-16
+- [Apply here](https://no.linkedin.com/jobs/view/summer-internship-2026-norway-technology-engineering-at-equinor-4300982882?position=59&pageNum=0&refId=5A%2FMYDV8jkhcOqaXhx16%2BQ%3D%3D&trackingId=2HEA1bRcvu8bZIH2gOq9DA%3D%3D)
 
 ### Revolut
 - **Position:** Rev-celerator Internship Programme 2026: Python Software Engineer
