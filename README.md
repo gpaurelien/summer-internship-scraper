@@ -4,7 +4,7 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (28 offers)
+## Available positions (29 offers)
 
 ### Microsoft
 - **Position:** Software Engineering Internship Opportunities
@@ -77,6 +77,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Aure, Møre og Romsdal, Norway
 - **Posted on:** 2025-09-16
 - [Apply here](https://no.linkedin.com/jobs/view/summer-internship-2026-norway-technology-engineering-at-equinor-4300982882?position=59&pageNum=0&refId=5A%2FMYDV8jkhcOqaXhx16%2BQ%3D%3D&trackingId=2HEA1bRcvu8bZIH2gOq9DA%3D%3D)
+
+### Equinor
+- **Position:** Summer Internship 2026 Norway - Technology & Engineering
+- **Location:** Tysvær, Rogaland, Norway
+- **Posted on:** 2025-09-16
+- [Apply here](https://no.linkedin.com/jobs/view/summer-internship-2026-norway-technology-engineering-at-equinor-4300989467?position=58&pageNum=0&refId=MB0tvYnjfyHNB5Re7eRtLQ%3D%3D&trackingId=MkHDHvRrZN%2BaTHBQQ2844w%3D%3D)
 
 ### Revolut
 - **Position:** Rev-celerator Internship Programme 2026: Python Software Engineer
