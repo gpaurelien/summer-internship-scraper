@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (29 offers)
+## Available positions (30 offers)
+
+### Microsoft
+- **Position:** Software Engineer Internship Opportunities
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2025-09-24
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineer-internship-opportunities-at-microsoft-4305619618?position=1&pageNum=0&refId=CRvytGDoQsIpzllzvbN05w%3D%3D&trackingId=3MMv9sz0IXFagPXzC4Qcaw%3D%3D)
 
 ### Microsoft
 - **Position:** Software Engineering Internship Opportunities
