@@ -4,7 +4,19 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (30 offers)
+## Available positions (32 offers)
+
+### Appear
+- **Position:** Software Engineer Summer Internship 2026
+- **Location:** Oslo, Oslo, Norway
+- **Posted on:** 2025-09-26
+- [Apply here](https://no.linkedin.com/jobs/view/software-engineer-summer-internship-2026-at-appear-4306463580?position=2&pageNum=0&refId=VO3L0iCcliTrPyuJv04MoQ%3D%3D&trackingId=inT5c%2F5ZeOWpi63aW934%2Fg%3D%3D)
+
+### Appear
+- **Position:** FPGA Engineer Summer Internship 2026
+- **Location:** Oslo, Oslo, Norway
+- **Posted on:** 2025-09-26
+- [Apply here](https://no.linkedin.com/jobs/view/fpga-engineer-summer-internship-2026-at-appear-4306474086?position=4&pageNum=0&refId=VO3L0iCcliTrPyuJv04MoQ%3D%3D&trackingId=xMSjIffqFlcsaErkXsJWWw%3D%3D)
 
 ### Microsoft
 - **Position:** Software Engineer Internship Opportunities
