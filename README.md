@@ -4,7 +4,19 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (32 offers)
+## Available positions (34 offers)
+
+### Subsea7
+- **Position:** Summer Internship 2026 - Engineering
+- **Location:** Stavanger, Rogaland, Norway
+- **Posted on:** 2025-10-01
+- [Apply here](https://no.linkedin.com/jobs/view/summer-internship-2026-engineering-at-subsea7-4308666966?position=33&pageNum=0&refId=ZeCSD%2Boh7nfGeYnDkKl9zQ%3D%3D&trackingId=J9Br%2BFV7VV4LM%2Bc1tsCsIw%3D%3D)
+
+### SpaceX
+- **Position:** Summer 2026 Silicon Hardware Engineering Internship/Co-op
+- **Location:** Any-Martin-Rieux, Hauts-de-France, France
+- **Posted on:** 2025-09-30
+- [Apply here](https://fr.linkedin.com/jobs/view/summer-2026-silicon-hardware-engineering-internship-co-op-at-spacex-4308144340?position=4&pageNum=0&refId=excVAnJ2vbLeV2Q350w3pg%3D%3D&trackingId=nRy%2FVI4Ebt9DF9YatPjL9Q%3D%3D)
 
 ### Appear
 - **Position:** Software Engineer Summer Internship 2026
