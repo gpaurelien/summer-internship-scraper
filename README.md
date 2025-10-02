@@ -4,13 +4,31 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (34 offers)
+## Available positions (37 offers)
 
 ### Subsea7
 - **Position:** Summer Internship 2026 - Engineering
 - **Location:** Stavanger, Rogaland, Norway
 - **Posted on:** 2025-10-01
 - [Apply here](https://no.linkedin.com/jobs/view/summer-internship-2026-engineering-at-subsea7-4308666966?position=33&pageNum=0&refId=ZeCSD%2Boh7nfGeYnDkKl9zQ%3D%3D&trackingId=J9Br%2BFV7VV4LM%2Bc1tsCsIw%3D%3D)
+
+### Maschinenfabrik Reinhausen
+- **Position:** Intern Electrical Engineering (m/f/d) - summer term 2026
+- **Location:** Regensburg, Bavaria, Germany
+- **Posted on:** 2025-10-01
+- [Apply here](https://de.linkedin.com/jobs/view/intern-electrical-engineering-m-f-d-summer-term-2026-at-maschinenfabrik-reinhausen-4308946672?position=1&pageNum=0&refId=wVqffAJHzni3%2ByDG%2BUOChw%3D%3D&trackingId=QQ6SA6PtPN%2FfPbZbAyEzrg%3D%3D)
+
+### Maschinenfabrik Reinhausen
+- **Position:** Intern Mechanical Engineering (m/f/d) - summer term 2026
+- **Location:** Regensburg, Bavaria, Germany
+- **Posted on:** 2025-10-01
+- [Apply here](https://de.linkedin.com/jobs/view/intern-mechanical-engineering-m-f-d-summer-term-2026-at-maschinenfabrik-reinhausen-4308957384?position=11&pageNum=0&refId=wVqffAJHzni3%2ByDG%2BUOChw%3D%3D&trackingId=r8uoMf5c9NsIwtwrXMI2qw%3D%3D)
+
+### Maschinenfabrik Reinhausen
+- **Position:** Intern Industrial Engineering (m/f/d) - summer term 2026
+- **Location:** Regensburg, Bavaria, Germany
+- **Posted on:** 2025-10-01
+- [Apply here](https://de.linkedin.com/jobs/view/intern-industrial-engineering-m-f-d-summer-term-2026-at-maschinenfabrik-reinhausen-4308949614?position=18&pageNum=0&refId=wVqffAJHzni3%2ByDG%2BUOChw%3D%3D&trackingId=4RbF6ZmsGctWZf%2BmKU7dZw%3D%3D)
 
 ### SpaceX
 - **Position:** Summer 2026 Silicon Hardware Engineering Internship/Co-op
