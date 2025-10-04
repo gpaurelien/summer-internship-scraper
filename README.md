@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (37 offers)
+## Available positions (38 offers)
+
+### Cloudflare
+- **Position:** Software Engineer Intern (Summer 2026)
+- **Location:** Lisbon, Portugal
+- **Posted on:** 2025-10-03
+- [Apply here](https://pt.linkedin.com/jobs/view/software-engineer-intern-summer-2026-at-cloudflare-4307553841?position=4&pageNum=0&refId=e4jXtAH2FR4VBEjKoxrzNQ%3D%3D&trackingId=mep%2Fliw2OXA5FGYvhJObEg%3D%3D)
 
 ### Subsea7
 - **Position:** Summer Internship 2026 - Engineering
