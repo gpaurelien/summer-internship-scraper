@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (38 offers)
+## Available positions (39 offers)
+
+### MobilePay
+- **Position:** Software Engineer Intern
+- **Location:** Aarhus, Central Denmark Region, Denmark
+- **Posted on:** 2025-10-07
+- [Apply here](https://dk.linkedin.com/jobs/view/software-engineer-intern-at-mobilepay-4310319260?position=1&pageNum=0&refId=Y3Xxz5OYV6linZ4vGbUshQ%3D%3D&trackingId=xu%2B2NSh7DWR12KSdnq33gg%3D%3D)
 
 ### Cloudflare
 - **Position:** Software Engineer Intern (Summer 2026)
