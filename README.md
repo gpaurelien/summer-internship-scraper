@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (39 offers)
+## Available positions (40 offers)
+
+### Maschinenfabrik Reinhausen
+- **Position:** Intern for software development for mobile apps (m/f/d) - summer term 2026
+- **Location:** Regensburg, Bavaria, Germany
+- **Posted on:** 2025-10-10
+- [Apply here](https://de.linkedin.com/jobs/view/intern-for-software-development-for-mobile-apps-m-f-d-summer-term-2026-at-maschinenfabrik-reinhausen-4313207475?position=1&pageNum=0&refId=2YPqpQPvUYBXt1vWLD%2Fp4Q%3D%3D&trackingId=CueagMrYU6AAObkJk0HHYw%3D%3D)
 
 ### MobilePay
 - **Position:** Software Engineer Intern
