@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (40 offers)
+## Available positions (41 offers)
+
+### Bliksund
+- **Position:** Data Developer Intern
+- **Location:** Oslo, Norway
+- **Posted on:** 2025-10-13
+- [Apply here](https://no.linkedin.com/jobs/view/data-developer-intern-at-bliksund-4314136818?position=5&pageNum=0&refId=I4ZHvt%2FIGP3EkXatr%2B8Ibw%3D%3D&trackingId=w3JhwTBNr%2BRvS%2BcfgutasA%3D%3D)
 
 ### Maschinenfabrik Reinhausen
 - **Position:** Intern for software development for mobile apps (m/f/d) - summer term 2026
