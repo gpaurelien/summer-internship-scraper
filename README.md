@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (41 offers)
+## Available positions (42 offers)
+
+### Energy Job Search
+- **Position:** Mechanical Engineer / Summer Intern 2026
+- **Location:** Trondheim Region
+- **Posted on:** 2025-10-18
+- [Apply here](https://no.linkedin.com/jobs/view/mechanical-engineer-summer-intern-2026-at-energy-job-search-4315792934?position=40&pageNum=0&refId=12U1Yr8%2BKkCFJ1b0O55LzQ%3D%3D&trackingId=WWmqi%2BLZbxxFZ7Wy4cCp9A%3D%3D)
 
 ### Bliksund
 - **Position:** Data Developer Intern
