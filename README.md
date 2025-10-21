@@ -4,7 +4,19 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (42 offers)
+## Available positions (44 offers)
+
+### GTS
+- **Position:** Software Engineering Internship, C++ - Summer 2026 - Warsaw, Poland
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2025-10-20
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineering-internship-c%2B%2B-summer-2026-warsaw-poland-at-gts-4314375622?position=2&pageNum=0&refId=a9Nnh0MhHeVKUNnagjBiNg%3D%3D&trackingId=H9SgvKsfBc5xCNXbiHDKIA%3D%3D)
+
+### GTS
+- **Position:** Software Engineering Internship, Python - Summer 2026 - Warsaw, Poland
+- **Location:** Warsaw, Mazowieckie, Poland
+- **Posted on:** 2025-10-20
+- [Apply here](https://pl.linkedin.com/jobs/view/software-engineering-internship-python-summer-2026-warsaw-poland-at-gts-4314393276?position=4&pageNum=0&refId=a9Nnh0MhHeVKUNnagjBiNg%3D%3D&trackingId=jC8C7kC8jehcBMWZ%2BKCDVw%3D%3D)
 
 ### Energy Job Search
 - **Position:** Mechanical Engineer / Summer Intern 2026
