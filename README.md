@@ -4,7 +4,25 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (44 offers)
+## Available positions (47 offers)
+
+### UiPath
+- **Position:** Software Engineer Intern
+- **Location:** Bucharest, Bucharest, Romania
+- **Posted on:** 2025-10-24
+- [Apply here](https://ro.linkedin.com/jobs/view/software-engineer-intern-at-uipath-4316793962?position=1&pageNum=0&refId=But5XNv1SX0OaxoGosKYYg%3D%3D&trackingId=IsMlhxsm8enBuYv%2Byzpdww%3D%3D)
+
+### Maschinenfabrik Reinhausen
+- **Position:** Intern in the Field Cybersecurity in Embedded Systems (m/f/d) - summer term 2026
+- **Location:** Regensburg, Bavaria, Germany
+- **Posted on:** 2025-10-24
+- [Apply here](https://de.linkedin.com/jobs/view/intern-in-the-field-cybersecurity-in-embedded-systems-m-f-d-summer-term-2026-at-maschinenfabrik-reinhausen-4331148161?position=5&pageNum=0&refId=crEiDcluQqjb%2FN3Z5n90OA%3D%3D&trackingId=Ctg6F%2B5NrI2t9DqPMgbqWA%3D%3D)
+
+### Cognite
+- **Position:** Data Engineering Intern (summer 2026)
+- **Location:** Oslo, Oslo, Norway
+- **Posted on:** 2025-10-24
+- [Apply here](https://no.linkedin.com/jobs/view/data-engineering-intern-summer-2026-at-cognite-4318398242?position=4&pageNum=0&refId=W3Ow%2Bc2B61JlR3V6kwSYEg%3D%3D&trackingId=RM4mel8YypCHdKbF0ahNog%3D%3D)
 
 ### GTS
 - **Position:** Software Engineering Internship, C++ - Summer 2026 - Warsaw, Poland
