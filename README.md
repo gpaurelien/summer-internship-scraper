@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (47 offers)
+## Available positions (48 offers)
+
+### Cloudflare
+- **Position:** Research Engineer Intern (Summer 2026)
+- **Location:** Lisbon, Portugal
+- **Posted on:** 2025-10-28
+- [Apply here](https://pt.linkedin.com/jobs/view/research-engineer-intern-summer-2026-at-cloudflare-4332335675?position=6&pageNum=0&refId=ymluwe1zyw%2B52FUt%2BNMQVQ%3D%3D&trackingId=SE3WxjyYIfffcjBtZmq8Rg%3D%3D)
 
 ### UiPath
 - **Position:** Software Engineer Intern
