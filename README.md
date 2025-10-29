@@ -4,13 +4,19 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (48 offers)
+## Available positions (49 offers)
 
 ### Cloudflare
 - **Position:** Research Engineer Intern (Summer 2026)
 - **Location:** Lisbon, Portugal
 - **Posted on:** 2025-10-28
 - [Apply here](https://pt.linkedin.com/jobs/view/research-engineer-intern-summer-2026-at-cloudflare-4332335675?position=6&pageNum=0&refId=ymluwe1zyw%2B52FUt%2BNMQVQ%3D%3D&trackingId=SE3WxjyYIfffcjBtZmq8Rg%3D%3D)
+
+### POWER Engineers
+- **Position:** Electrical Engineering Intern - Summer 2026
+- **Location:** None, Piedmont, Italy
+- **Posted on:** 2025-10-28
+- [Apply here](https://it.linkedin.com/jobs/view/electrical-engineering-intern-summer-2026-at-power-engineers-4319452315?position=7&pageNum=0&refId=dWj6pRPu4zSQKjfpfKxt9w%3D%3D&trackingId=W9yRRu5EkxcwyaFVUgQneQ%3D%3D)
 
 ### UiPath
 - **Position:** Software Engineer Intern
