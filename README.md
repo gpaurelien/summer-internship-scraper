@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (49 offers)
+## Available positions (50 offers)
+
+### Nasdaq
+- **Position:** Software Developing Intern - Summer 2026
+- **Location:** Stockholm, Stockholm County, Sweden
+- **Posted on:** 2025-11-05
+- [Apply here](https://se.linkedin.com/jobs/view/software-developing-intern-summer-2026-at-nasdaq-4334297864?position=1&pageNum=0&refId=OydQABEVsVq0fCaEd7mfsA%3D%3D&trackingId=ZUFzv5vcDbDTntsqoydokA%3D%3D)
 
 ### Cloudflare
 - **Position:** Research Engineer Intern (Summer 2026)
