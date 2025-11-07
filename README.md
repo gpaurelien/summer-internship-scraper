@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (50 offers)
+## Available positions (51 offers)
+
+### Dropbox
+- **Position:** Poland Software Engineering Intern (Summer 2026)
+- **Location:** Poland
+- **Posted on:** 2025-11-06
+- [Apply here](https://pl.linkedin.com/jobs/view/poland-software-engineering-intern-summer-2026-at-dropbox-4321280582?position=4&pageNum=0&refId=5cnCWcShn2lkB1n%2FWQu57A%3D%3D&trackingId=2lQteqPPUCKONyz7OxtWmQ%3D%3D)
 
 ### Nasdaq
 - **Position:** Software Developing Intern - Summer 2026
