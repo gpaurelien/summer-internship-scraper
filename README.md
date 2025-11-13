@@ -4,7 +4,25 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (51 offers)
+## Available positions (54 offers)
+
+### ActiveCampaign
+- **Position:** Summer 2026 Software Engineering Internship
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-11-12
+- [Apply here](https://pl.linkedin.com/jobs/view/summer-2026-software-engineering-internship-at-activecampaign-4322072942?position=1&pageNum=0&refId=keJ78sqxOtWk6ExzpKAqeQ%3D%3D&trackingId=OAJDvZs9Q8YdoE1eCwm2rQ%3D%3D)
+
+### Cisco
+- **Position:** Cisco Network Engineer Intern - Cracow, Poland
+- **Location:** Cracow, Małopolskie, Poland
+- **Posted on:** 2025-11-12
+- [Apply here](https://pl.linkedin.com/jobs/view/cisco-network-engineer-intern-cracow-poland-at-cisco-4335823412?position=8&pageNum=0&refId=keJ78sqxOtWk6ExzpKAqeQ%3D%3D&trackingId=Bdy7gMwWFojEldJKAbmiZA%3D%3D)
+
+### Adobe
+- **Position:** 2026 Intern - Software Engineer
+- **Location:** Clermont-Ferrand, Auvergne-Rhône-Alpes, France
+- **Posted on:** 2025-11-12
+- [Apply here](https://fr.linkedin.com/jobs/view/2026-intern-software-engineer-at-adobe-4322041871?position=4&pageNum=0&refId=HGwdwTkQgRugFvN6an%2FZVA%3D%3D&trackingId=hwIic4cf1SexcJh%2FOrmdpw%3D%3D)
 
 ### Dropbox
 - **Position:** Poland Software Engineering Intern (Summer 2026)
