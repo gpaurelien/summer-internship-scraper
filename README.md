@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (54 offers)
+## Available positions (55 offers)
+
+### HOSOKAWA SOLIDS
+- **Position:** Intern (m/f/d) R&D Mechanical Process Engineering
+- **Location:** Augsburg, Bavaria, Germany
+- **Posted on:** 2025-11-17
+- [Apply here](https://de.linkedin.com/jobs/view/intern-m-f-d-r-d-mechanical-process-engineering-at-hosokawa-solids-4336324234?position=33&pageNum=0&refId=7jVIWayFzxdsbZo2RS91SQ%3D%3D&trackingId=ooBTFxUJ6VqGSDBcmLmfog%3D%3D)
 
 ### ActiveCampaign
 - **Position:** Summer 2026 Software Engineering Internship
