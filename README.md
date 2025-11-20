@@ -4,7 +4,25 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (55 offers)
+## Available positions (58 offers)
+
+### Mastercard
+- **Position:** Intern, Data Scientist
+- **Location:** Lisbon, Lisbon, Portugal
+- **Posted on:** 2025-11-19
+- [Apply here](https://pt.linkedin.com/jobs/view/intern-data-scientist-at-mastercard-4341990474?position=4&pageNum=0&refId=xuztYGYrj1Aa%2BbLvDwt6sA%3D%3D&trackingId=Woe3vDA1yX%2BMTQg1J%2Fj44w%3D%3D)
+
+### Mastercard
+- **Position:** Intern, Software Engineering
+- **Location:** Lisbon, Lisbon, Portugal
+- **Posted on:** 2025-11-19
+- [Apply here](https://pt.linkedin.com/jobs/view/intern-software-engineering-at-mastercard-4347010491?position=5&pageNum=0&refId=xuztYGYrj1Aa%2BbLvDwt6sA%3D%3D&trackingId=utiNiN41YNW2iN5%2BgeWuuw%3D%3D)
+
+### NIRA Dynamics AB
+- **Position:** NIRA Engineering Summer Internship 2026
+- **Location:** Linköping, Östergötland County, Sweden
+- **Posted on:** 2025-11-19
+- [Apply here](https://se.linkedin.com/jobs/view/nira-engineering-summer-internship-2026-at-nira-dynamics-ab-4337260237?position=20&pageNum=0&refId=thjF0QLhStDthkn7X7P3ug%3D%3D&trackingId=Dm4uC%2FfFBSBbLb%2Fw7W%2FHwg%3D%3D)
 
 ### HOSOKAWA SOLIDS
 - **Position:** Intern (m/f/d) R&D Mechanical Process Engineering
