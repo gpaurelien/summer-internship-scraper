@@ -4,7 +4,25 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (58 offers)
+## Available positions (61 offers)
+
+### AutoStore™
+- **Position:** Firmware Engineer Intern
+- **Location:** Vindafjord, Rogaland, Norway
+- **Posted on:** 2025-11-24
+- [Apply here](https://no.linkedin.com/jobs/view/firmware-engineer-intern-at-autostore%E2%84%A2-4324249576?position=10&pageNum=0&refId=mrkbaGoYc7E%2BCw0REQVcfQ%3D%3D&trackingId=%2BBdZVtX1UCMgB%2Bg0UsXyPw%3D%3D)
+
+### AutoStore™
+- **Position:** Test Engineer Intern
+- **Location:** Vindafjord, Rogaland, Norway
+- **Posted on:** 2025-11-24
+- [Apply here](https://no.linkedin.com/jobs/view/test-engineer-intern-at-autostore%E2%84%A2-4324169662?position=20&pageNum=0&refId=mrkbaGoYc7E%2BCw0REQVcfQ%3D%3D&trackingId=mFCl8bfa9YufYMT0dbk%2FTw%3D%3D)
+
+### AutoStore™
+- **Position:** Mechanical Engineer Intern
+- **Location:** Vindafjord, Rogaland, Norway
+- **Posted on:** 2025-11-24
+- [Apply here](https://no.linkedin.com/jobs/view/mechanical-engineer-intern-at-autostore%E2%84%A2-4324089760?position=28&pageNum=0&refId=mrkbaGoYc7E%2BCw0REQVcfQ%3D%3D&trackingId=OZKoei1GFUojewJci4omGQ%3D%3D)
 
 ### Mastercard
 - **Position:** Intern, Data Scientist
