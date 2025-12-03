@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (63 offers)
+## Available positions (64 offers)
+
+### Warner Bros. Discovery
+- **Position:** Software Engineering Intern: Stockholm – Summer 2026
+- **Location:** Stockholm, Stockholm County, Sweden
+- **Posted on:** 2025-12-03
+- [Apply here](https://se.linkedin.com/jobs/view/software-engineering-intern-stockholm-%E2%80%93-summer-2026-at-warner-bros-discovery-4341257944?position=5&pageNum=0&refId=KLr1rkxwEUgq2GTTuQ5sOA%3D%3D&trackingId=83VIxhEK%2BH0m18LsDie1LQ%3D%3D)
 
 ### AutoStore™
 - **Position:** Software Engineer Intern
