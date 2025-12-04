@@ -4,7 +4,25 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (64 offers)
+## Available positions (67 offers)
+
+### NVIDIA
+- **Position:** Software Engineering Intern, CUDA Core Libraries - Summer 2026
+- **Location:** Germany
+- **Posted on:** 2025-12-04
+- [Apply here](https://de.linkedin.com/jobs/view/software-engineering-intern-cuda-core-libraries-summer-2026-at-nvidia-4342036340?position=5&pageNum=0&refId=0QcDDj7eY%2Bx5LvG90%2BHYag%3D%3D&trackingId=Vudo0Wc6VjHOQvwx3FCYSg%3D%3D)
+
+### NVIDIA
+- **Position:** Software Engineering Intern, CUDA Core Libraries - Summer 2026
+- **Location:** Munich, Bavaria, Germany
+- **Posted on:** 2025-12-04
+- [Apply here](https://de.linkedin.com/jobs/view/software-engineering-intern-cuda-core-libraries-summer-2026-at-nvidia-4341537103?position=8&pageNum=0&refId=0QcDDj7eY%2Bx5LvG90%2BHYag%3D%3D&trackingId=NomupGC5gsG%2FHXOJH2VrTA%3D%3D)
+
+### NVIDIA
+- **Position:** Software Engineering Intern, CUDA Core Libraries - Summer 2026
+- **Location:** France
+- **Posted on:** 2025-12-04
+- [Apply here](https://fr.linkedin.com/jobs/view/software-engineering-intern-cuda-core-libraries-summer-2026-at-nvidia-4342056279?position=2&pageNum=0&refId=JJwdQcHBw9ZwJtpyadx5Og%3D%3D&trackingId=w0t1K8UTLbNlIT0UCpYE%2BA%3D%3D)
 
 ### Warner Bros. Discovery
 - **Position:** Software Engineering Intern: Stockholm – Summer 2026
