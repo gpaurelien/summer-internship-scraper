@@ -4,7 +4,7 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (67 offers)
+## Available positions (68 offers)
 
 ### NVIDIA
 - **Position:** Software Engineering Intern, CUDA Core Libraries - Summer 2026
@@ -77,6 +77,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Linköping, Östergötland County, Sweden
 - **Posted on:** 2025-11-19
 - [Apply here](https://se.linkedin.com/jobs/view/nira-engineering-summer-internship-2026-at-nira-dynamics-ab-4337260237?position=20&pageNum=0&refId=thjF0QLhStDthkn7X7P3ug%3D%3D&trackingId=Dm4uC%2FfFBSBbLb%2Fw7W%2FHwg%3D%3D)
+
+### Mastercard
+- **Position:** Intern, Software Engineering
+- **Location:** Lisbon, Portugal
+- **Posted on:** 2025-11-19
+- [Apply here](https://pt.linkedin.com/jobs/view/intern-software-engineering-at-mastercard-4347010491?position=4&pageNum=0&refId=2ekJwck1qyoADLTT9hp7LQ%3D%3D&trackingId=qAT6hVEoaiu1QL%2B4pzEQMw%3D%3D)
 
 ### HOSOKAWA SOLIDS
 - **Position:** Intern (m/f/d) R&D Mechanical Process Engineering
