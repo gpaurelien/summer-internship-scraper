@@ -4,7 +4,55 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (68 offers)
+## Available positions (76 offers)
+
+### Vår Energi
+- **Position:** Summer Intern - D&W Engineer
+- **Location:** Sandnes, Rogaland, Norway
+- **Posted on:** 2025-12-06
+- [Apply here](https://no.linkedin.com/jobs/view/summer-intern-d-w-engineer-at-v%C3%A5r-energi-4348735129?position=14&pageNum=0&refId=se0BRWY056IbZCi2VPC1mQ%3D%3D&trackingId=XWo5slkOY%2F775d5og7o%2Bdw%3D%3D)
+
+### Vår Energi
+- **Position:** Summer Intern - Reservoir / Production Engineer
+- **Location:** Sandnes, Rogaland, Norway
+- **Posted on:** 2025-12-06
+- [Apply here](https://no.linkedin.com/jobs/view/summer-intern-reservoir-production-engineer-at-v%C3%A5r-energi-4348715254?position=16&pageNum=0&refId=se0BRWY056IbZCi2VPC1mQ%3D%3D&trackingId=sIKXbRutmhJtcZqrfnv1Iw%3D%3D)
+
+### Vår Energi
+- **Position:** Summer Intern - Subsea Engineer
+- **Location:** Sandnes, Rogaland, Norway
+- **Posted on:** 2025-12-06
+- [Apply here](https://no.linkedin.com/jobs/view/summer-intern-subsea-engineer-at-v%C3%A5r-energi-4348725344?position=22&pageNum=0&refId=se0BRWY056IbZCi2VPC1mQ%3D%3D&trackingId=7Z8YGDV397OgPbbCe3jGYg%3D%3D)
+
+### Vår Energi
+- **Position:** Summer Intern - IMR Engineer
+- **Location:** Sandnes, Rogaland, Norway
+- **Posted on:** 2025-12-06
+- [Apply here](https://no.linkedin.com/jobs/view/summer-intern-imr-engineer-at-v%C3%A5r-energi-4348645440?position=26&pageNum=0&refId=se0BRWY056IbZCi2VPC1mQ%3D%3D&trackingId=PiKegcST0f0ll4diefh9wA%3D%3D)
+
+### Vår Energi
+- **Position:** Summer Intern - Process Engineer
+- **Location:** Sandnes, Rogaland, Norway
+- **Posted on:** 2025-12-06
+- [Apply here](https://no.linkedin.com/jobs/view/summer-intern-process-engineer-at-v%C3%A5r-energi-4348626056?position=28&pageNum=0&refId=se0BRWY056IbZCi2VPC1mQ%3D%3D&trackingId=Naku2rHNlIR9BWVji7RUNw%3D%3D)
+
+### Vår Energi
+- **Position:** Summer Intern - Machinery Engineer
+- **Location:** Hammerfest, Troms og Finnmark, Norway
+- **Posted on:** 2025-12-06
+- [Apply here](https://no.linkedin.com/jobs/view/summer-intern-machinery-engineer-at-v%C3%A5r-energi-4348626059?position=32&pageNum=0&refId=se0BRWY056IbZCi2VPC1mQ%3D%3D&trackingId=JxMcixHIWsePIarDg%2B656A%3D%3D)
+
+### Vår Energi
+- **Position:** Summer Intern - Machinery Engineer
+- **Location:** Sandnes, Rogaland, Norway
+- **Posted on:** 2025-12-06
+- [Apply here](https://no.linkedin.com/jobs/view/summer-intern-machinery-engineer-at-v%C3%A5r-energi-4348705179?position=33&pageNum=0&refId=se0BRWY056IbZCi2VPC1mQ%3D%3D&trackingId=MHRQbnIN1YeF662ochBeOA%3D%3D)
+
+### Vår Energi
+- **Position:** Summer Intern - Maintenance Engineer - Improvement and analysis
+- **Location:** Sandnes, Rogaland, Norway
+- **Posted on:** 2025-12-06
+- [Apply here](https://no.linkedin.com/jobs/view/summer-intern-maintenance-engineer-improvement-and-analysis-at-v%C3%A5r-energi-4348559862?position=41&pageNum=0&refId=se0BRWY056IbZCi2VPC1mQ%3D%3D&trackingId=m057DwYxvsHMMcf9c2BQSA%3D%3D)
 
 ### NVIDIA
 - **Position:** Software Engineering Intern, CUDA Core Libraries - Summer 2026
