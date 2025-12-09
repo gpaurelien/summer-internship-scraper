@@ -4,7 +4,7 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (76 offers)
+## Available positions (77 offers)
 
 ### Vår Energi
 - **Position:** Summer Intern - D&W Engineer
@@ -53,6 +53,12 @@ Posted on refers to the date when the offer was posted on LinkedIn.
 - **Location:** Sandnes, Rogaland, Norway
 - **Posted on:** 2025-12-06
 - [Apply here](https://no.linkedin.com/jobs/view/summer-intern-maintenance-engineer-improvement-and-analysis-at-v%C3%A5r-energi-4348559862?position=41&pageNum=0&refId=se0BRWY056IbZCi2VPC1mQ%3D%3D&trackingId=m057DwYxvsHMMcf9c2BQSA%3D%3D)
+
+### Vår Energi
+- **Position:** Summer Intern - Structure & Marine Engineer
+- **Location:** Sandnes, Rogaland, Norway
+- **Posted on:** 2025-12-06
+- [Apply here](https://no.linkedin.com/jobs/view/summer-intern-structure-marine-engineer-at-v%C3%A5r-energi-4348645440?position=21&pageNum=0&refId=kGPmkk8UeScQ0DCtrheJOQ%3D%3D&trackingId=p3%2FOYcas2tqnoDaDi%2BYHQg%3D%3D)
 
 ### NVIDIA
 - **Position:** Software Engineering Intern, CUDA Core Libraries - Summer 2026
