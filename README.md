@@ -4,7 +4,13 @@ This list gets updated daily.
 
 Posted on refers to the date when the offer was posted on LinkedIn.
 
-## Available positions (77 offers)
+## Available positions (78 offers)
+
+### Western Digital
+- **Position:** Summer 2026 Intern - R&D Engineering
+- **Location:** Copenhagen, Capital Region of Denmark, Denmark
+- **Posted on:** 2025-12-09
+- [Apply here](https://dk.linkedin.com/jobs/view/summer-2026-intern-r-d-engineering-at-western-digital-4349181029?position=1&pageNum=0&refId=nsPHYbAkR6ppf%2F1FWgi5PQ%3D%3D&trackingId=D5R%2BqFarT1cMgXEOKGFSBA%3D%3D)
 
 ### Vår Energi
 - **Position:** Summer Intern - D&W Engineer
